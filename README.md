@@ -54,6 +54,26 @@ Utiliza a câmera do celular para ler o QR Code do aluno e registrar automaticam
 
 Quando o login é feito com o código cs-aluno, a tela exibirá apenas o QR Code único do aluno, que será usado para registrar a entrada e saída na escola.
 
+
+📥 *Instalação*
+
+*Clone o Repositório:* 
+
+*__Em qualquer terminal:__*
+
+git clone   https://github.com/seu-usuario/seu-repositorio.git
+
+cd seu-repositorio
+
+*Instale as Dependências:*
+
+flutter pub get
+
+*Execute o Aplicativo:*
+
+flutter run
+
+
 📦 *Estrutura do Projeto*
 
 git-bash
@@ -90,23 +110,6 @@ git-bash
 │
 └── README.md
 
-📥 *Instalação*
-
-*Clone o Repositório:* 
-
-*__Em qualquer terminal:__*
-
-git clone   https://github.com/seu-usuario/seu-repositorio.git
-
-cd seu-repositorio
-
-*Instale as Dependências:*
-
-flutter pub get
-
-*Execute o Aplicativo:*
-
-flutter run
 
 🤝 Contribuição
 
